@@ -1,2 +1,2 @@
-# 02_ponto_a_ponta
-Notebook de projetos do livro Mãos  à obra : Aprendizado de máquina
+# Projeto do livro  : Mãos à obra, aprendizado de máquina com Scikit-Learning e TensorFlow
+Análise de preços de imóveis na California.
